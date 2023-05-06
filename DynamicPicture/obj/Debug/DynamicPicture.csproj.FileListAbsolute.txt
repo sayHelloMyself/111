@@ -1,0 +1,16 @@
+D:\Cjing\DynamicPicture\DynamicPicture\bin\Debug\DynamicPicture.exe.config
+D:\Cjing\DynamicPicture\DynamicPicture\bin\Debug\DynamicPicture.exe
+D:\Cjing\DynamicPicture\DynamicPicture\bin\Debug\DynamicPicture.pdb
+D:\Cjing\DynamicPicture\DynamicPicture\obj\Debug\DynamicPicture.csproj.AssemblyReference.cache
+D:\Cjing\DynamicPicture\DynamicPicture\obj\Debug\DynamicPicture.csproj.SuggestedBindingRedirects.cache
+D:\Cjing\DynamicPicture\DynamicPicture\obj\Debug\DynamicPicture.Form1.resources
+D:\Cjing\DynamicPicture\DynamicPicture\obj\Debug\DynamicPicture.Properties.Resources.resources
+D:\Cjing\DynamicPicture\DynamicPicture\obj\Debug\DynamicPicture.csproj.GenerateResource.cache
+D:\Cjing\DynamicPicture\DynamicPicture\obj\Debug\DynamicPicture.csproj.CoreCompileInputs.cache
+D:\Cjing\DynamicPicture\DynamicPicture\obj\Debug\DynamicPicture.exe
+D:\Cjing\DynamicPicture\DynamicPicture\obj\Debug\DynamicPicture.pdb
+D:\Cjing\DynamicPicture\DynamicPicture\bin\Debug\Interop.WMPLib.dll
+D:\Cjing\DynamicPicture\DynamicPicture\bin\Debug\AxInterop.WMPLib.dll
+D:\Cjing\DynamicPicture\DynamicPicture\obj\Debug\Interop.WMPLib.dll
+D:\Cjing\DynamicPicture\DynamicPicture\obj\Debug\AxInterop.WMPLib.dll
+D:\Cjing\DynamicPicture\DynamicPicture\obj\Debug\DynamicPicture.csproj.ResolveComReference.cache

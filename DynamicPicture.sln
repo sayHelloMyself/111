@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicPicture", "DynamicPicture\DynamicPicture.csproj", "{EFDDCB20-DFED-4EB2-B3E3-E3D2B3454730}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFDDCB20-DFED-4EB2-B3E3-E3D2B3454730}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFDDCB20-DFED-4EB2-B3E3-E3D2B3454730}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFDDCB20-DFED-4EB2-B3E3-E3D2B3454730}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFDDCB20-DFED-4EB2-B3E3-E3D2B3454730}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22393033-50D7-4462-9DCC-97DCDF383109}
+	EndGlobalSection
+EndGlobal
